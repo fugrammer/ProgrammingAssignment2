@@ -1,5 +1,5 @@
 
-# Special matrix
+# Special matrix test 2
 makeCacheMatrix <- function(x= matrix()){
   
   inv <- NULL
